@@ -1920,13 +1920,13 @@ ul.multi-column-dropdown li a:hover {
 /*-- //coupons --*/
 /*-- /about --*/
 .page-head_agile_info_w3l {
-  background: url(../images/inner1.jpg) no-repeat center;
+ background-color: #A08981;
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
   -ms-background-size: cover;
   -moz-background-size: cover;
-  min-height: 200px;
+  
   padding-top: 50px;
 }
 .page-head_agile_info_w3l h3 {
@@ -1936,6 +1936,7 @@ ul.multi-column-dropdown li a:hover {
   font-size: 3em;
   font-weight: 700;
   letter-spacing: 2px;
+
 }
 .page-head_agile_info_w3l h3 span {
   font-weight: 300;
@@ -4409,7 +4410,7 @@ p.w3ls_para {
     margin-bottom: 14px;
   }
   .page-head_agile_info_w3l {
-    min-height: 166px;
+  
     padding-top: 55px;
   }
   .page-head_agile_info_w3l h3 {
@@ -4795,7 +4796,7 @@ p.w3ls_para {
     font-size: 1.6em;
   }
   .page-head_agile_info_w3l {
-    min-height: 143px;
+   
   }
   .css-treeview label {
     font-size: 13px;
@@ -5274,7 +5275,7 @@ p.w3ls_para {
     font-size: 0.9em;
   }
   .page-head_agile_info_w3l {
-    min-height: 143px;
+    
     padding-top: 33px;
   }
 }
